@@ -1,0 +1,90 @@
+/* Tablas de Productos*/
+
+.TituloCelda {
+  font-size: 20px;
+  font-weight: bold;
+}
+.TextoCelda {
+  font-size: 20px;
+}
+#CeldaImagen {
+  width: 0px;
+}
+#ImgCelda {
+  width: 150px;
+  height: 120px;
+}
+#ShopCelda {
+  font-size: 20px;
+  text-align: center;
+}
+
+/*.thumbnail:hover {
+    background-color: #004d40;
+    color: white;
+
+}*/
+
+
+/*.caption:hover{
+	color: white;
+}*/
+
+
+/*.caption img:hover{
+	border: 3px solid #8bc34a;
+}*/
+
+.thumbnail {
+  height: 400px;
+}
+
+/*#tarjetasProductos{
+	color: white;
+}*/
+
+/*text de cantidad de productos en el carrito */
+.cantidad{
+  width:60px;
+  background:transparent;
+  color:black;
+  border-style: inset;;
+}
+/*border-bottom: 1px solid #e5e5e5;*/
+
+.subcomentario > .panel-default{ font-size: large;
+  border-left: 1px solid rgba(0, 0, 0, 0);
+  border-top: 1px solid rgba(0, 0, 0, 0);
+  border-right: 0px solid rgba(0, 0, 0, 0);
+  -webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+  margin-bottom: 0px;
+  padding-left: 15px;
+  padding-top: 18px;
+}
+
+.comentarios > .panel-primary{
+
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 0px solid rgba(0, 0, 0, 0);
+  border-right: 0px solid rgba(0, 0, 0, 0.1);
+  border-top: 0px solid rgba(0, 0, 0, 0.1);
+
+  border-top-left-radius: 3px;
+  font-size: large;
+
+margin-bottom: 21px;
+background-color: #ffffff;
+
+}
+.FechaComent{
+  color: rgba(4, 4, 4, 0.51);
+  font-size: small;
+}
+.imgInfoProducto{
+  padding-top: 14px;
+}
+
+.text-verdeOscuro{
+  color:#004d40;
+}
